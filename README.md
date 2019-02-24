@@ -290,17 +290,6 @@ In this section, we will create an EMR cluster on the AWS console and deploy the
     <img src="img/ML6.jpg" width="90%" height="70%"></p>
 
 
-* Predict new user data with existing models
-    >To evaluate the model, we can enter new data to predict whether the customer will buy bank deposits.
-
-<p align="center">
-    <img src="img/.png" width="100%" height="70%"></p>
-
-* Comparison with unenriched data
-    >We know that data enrichment is important, and we want to know how unenriched data will behave in the same model.
-
-<p align="center">
-    <img src="img/.png" width="100%" height="70%"></p>
 
 ## Cleanup
 After this lab, you must delete some resources to avoid unnecessary costs:
