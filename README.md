@@ -23,7 +23,7 @@ Next, we use python's pyspark package to build machine learning models in EMR to
 ## Architect
 
 <p align="center">
-    <img src="img/EMR_ETL___ML.png" width="70%" height="70%"></p>
+    <img src="img/EMR ETL _ ML.png" width="70%" height="70%"></p>
 
 ## Prerequisites
 
