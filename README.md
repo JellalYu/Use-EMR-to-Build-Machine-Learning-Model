@@ -188,7 +188,7 @@ In this section, we will create an EMR cluster on the AWS console and deploy the
 
 *    Open Zeppelin Notebook
 
-    In this step, we will use spark to merge and clean the data in Zeppelin notebook. 
+In this step, we will use spark to merge and clean the data in Zeppelin notebook. 
 
 * Copy the public DNS of Master node in the EMR Cluster you just created and add ```:8890``` at the end of the URL. 
 
